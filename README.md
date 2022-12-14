@@ -1,2 +1,4 @@
-# Amex_credit_card_default_prediction
+## Amex Credit Card Default Prediction
 EECS E6893: Big Data Analytics Final Project 
+
+**Credit card default prediction is an imperative component of the credit card industry to manage and optimize lending decisions. With the rapid increase of the credit card industry, it has become essential to deal with the increasing delinquency rates to prevent fraud and financial loss to the industry. In this work, we aim to solve this crucial problem by exploring the realms of big data and machine learning to predict the default behavior of a customer by developing an explainable credit card default prediction model. We build a cloud model utilizing Apache Spark engines to achieve efficient and optimized performance to run our model on the high-volume AMEX dataset. To serve the industry standards, this work incorporates the issue of explanability for such models by applying game theory to our prediction model. We showcase the significant performance and explainability of our model with the help of XGMboost and game theory techniques like shapley.**
